@@ -9,6 +9,8 @@ root.render(
   <React.StrictMode>
     <App />
     <BG />
+    <App />
+    <BG />
   
   </React.StrictMode>
 );
